@@ -3,41 +3,116 @@ Search Engine Optimized SEO Template
 Author: http://staseo.com/
 */
 /* Main */
-* {margin: 0;padding: 0;}
-body {background-color: #fff;font-family: Arial;font-size: 1em;color: #2d424d;}
-h1,h2, h3, h4, h5, h6 {color:#416271;margin-bottom: 15px;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
-p, blockquote, ul, ol {	margin-bottom: 20px;line-height: 1.6em;}
-a {text-decoration: underline;color: #3b73ba; }
-a:hover {text-decoration: underline;color:#37AF58;}
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #fff;
+    font-family: Arial;
+    font-size: 1em;
+    color: #2d424d;
+}
+h1,h2, h3, h4, h5, h6 {
+    color:#416271;
+    margin-bottom: 15px;
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+p, blockquote, ul, ol {
+    margin-bottom: 20px;line-height: 1.6em
+    ;}
+    a {text-decoration: underline;
+    color: #3b73ba;
+}
+a:hover {
+    text-decoration: underline;
+    color:#37AF58;
+}
 img {border:0;}
 /* Header and Logo */
-#header {width: 790px;height: 96px;margin: 0 auto;
-background: url(../images/top.jpg) no-repeat left bottom;}
-#logo a {text-decoration: none;color: #416271;}
-#logo {float: left;padding: 20px 0 0 15px;}
-#logo p{margin: 0;padding: 0; font: normal 36px "Trebuchet MS", Arial, Helvetica, sans-serif;}
-#logo span.small {letter-spacing: 2px;font-weight: normal;font-size: 10px;color: #3B73BA;}
+#header {
+    width: 790px;
+    height: 96px;
+    margin: 0 auto;
+    background: url(../images/top.jpg) no-repeat left bottom;
+}
+#logo a {
+    text-decoration: none;
+    color: #416271;
+}
+#logo {
+    float: left;
+    padding: 20px 0 0 15px;
+}
+#logo p{
+    margin: 0;
+    padding: 0;
+    font: normal 36px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#logo span.small {
+    letter-spacing: 2px;
+    font-weight: normal;
+    font-size: 10px;
+    color: #3B73BA;
+}
+
 /* Page */
-#page {width: 790px;margin: 0 auto;background: #D4C792 url(../images/center.jpg) repeat-y;}
-.clear {clear: both; height: 1px;}
+#page {
+    width: 790px;
+    margin: 0 auto;
+    background: #D4C792 url(../images/center.jpg) repeat-y;
+}
+.clear {
+    clear: both;
+    height: 1px;
+}
 /* Content */
-#content {float: left;width: 450px;padding: 0 0 0 30px;}
-#content ul, #content ol {list-style-position: inside;}
+#content {
+    float: left;
+    width: 450px;
+    padding: 0 0 0 30px;
+}
+#content ul, #content ol {
+    list-style-position: inside;
+}
 /* Sidebar */
-#sidebar {float: right; width: 220px; padding: 0 40px;}
-#sidebar ul {margin: 0;padding: 20px 10px;list-style: none;line-height: normal;}
-#sidebar li {padding: 5px 0;font-size:1.1em;letter-spacing:1px;}
-#sidebar a {text-decoration: none;color: #3b73ba;}
-#sidebar a:hover {text-decoration: underline;color:#37af58;}
+#sidebar {
+    float: right;
+    width: 220px;
+    padding: 0 40px;
+}
+
+#sidebar ul {
+    marginn: 0;
+    padding: 20px 10px;
+    list-style: none;
+    line-height: normal;}
+    #sidebar li {
+	padding: 5px 0;
+ font-size:1.1em;
+ letter-spacing:1px;}
+ #sidebar a {
+     text-decoration: none;
+     color: #3b73ba;}
+     #sidebar a:hover {
+	 text-decoration: underline;
+  color:#37af58;}
 /* Footer */
 #footer {
-width: 790px;
-height: 50px;
-margin: 0 auto;
-padding: 40px 0;
-background: url(../images/bottom.jpg) no-repeat;
+    width: 790px;
+    height: 50px;
+    margin: 0 auto;
+    padding: 40px 0;
+    background: url(../images/bottom.jpg) no-repeat;
 }
-#footer p {margin: 0;text-align: center;font-size: 77%;}
-#footer a {text-decoration: none;}
-#footer a:hover {text-decoration: underline;}
-/* That's all */
+#footer p {
+    margin: 0;
+    text-align: center;
+    font-size: 77%;}
+#footer a {
+    text-decoration: none;
+}
+#footer a:hover {
+    text-decoration: underline;
+}
+     
